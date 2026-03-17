@@ -4,7 +4,7 @@ MCA graduate with 2+ year experience in full-stack development. Skilled in JavaS
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/amitgingale07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitgingale@gmail.com) 
-**[vercel](https://amitingale.vercel.app/)**
+**[PortFolio](https://amitingale.vercel.app/)**
 
 
 # 💻 Tech Stack:
