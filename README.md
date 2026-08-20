@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amit%20Kumar&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
-<!-- 🎯 LIVE TYPING ANIMATION 🎯 -->
-<div align="center">
-  <a href="https://github.com/AmitIngAI">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Hi+👋+I'm+Amit+Kumar;Full+Stack+%26+Backend+Engineer;AI+%2F+ML+Enthusiast+%7C+MCA+Graduate;Building+Government-grade+AI+Portals+🚀" alt="Typing SVG" />
-  </a>
-</div>
 
 <br/>
 
@@ -73,14 +67,7 @@
 
 ---
 
-<!-- 🏆 TROPHY CASE (NEW!) 🏆 -->
-<h2 align="center">🏆 GitHub Trophy Case</h2>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AmitIngAI&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
-  </a>
-</div>
 
 ---
 
