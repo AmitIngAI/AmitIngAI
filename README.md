@@ -1,38 +1,55 @@
-<div align="center">
-  <!-- Top Contribution Animation / Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" width="100%"/>
-</div>
-
-<!-- Terminal and Neofetch Section -->
-<table border="0" width="100%">
+<!-- Top Terminal and Neofetch Section (Like Image 2) -->
+<table border="1" style="border-collapse: collapse; border-color: #30363d;" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" alt="Dev GIF" style="border-radius:10px;"/>
+    <td width="45%" valign="top" style="background-color: #0d1117; padding: 10px;">
+<pre style="color: #8b949e; font-size: 8px; line-height: 8px;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@#+*#@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@*-      -*@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@*.          .*@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@+              +@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@=                =@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@                  @@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@                  @@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@=                =@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@+              +@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@*.          .*@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@*-      -*@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@#+*#@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+AmitIngAI@github:~$ whoami
+Amit Kumar (Full Stack Engineer)
+</pre>
     </td>
-    <td width="50%" valign="top">
-      <pre>
-<b>AmitIngAI@github : ~$ neofetch</b>
----------------------------------
-<b>Role</b>       Full Stack & Backend Engineer | AI Enthusiast
-<b>Degree</b>     MCA Graduate (2+ Years Exp)
-<b>Focus</b>      Scalable Web Apps, AI Agents & Microservices
-<br/>
-<b>-- Stack --</b>
-<b>Frontend</b>   React.js, JavaScript, TypeScript, Redux, Tailwind
-<b>Backend</b>    Node.js, Express.js, Spring Boot, REST APIs
-<b>Database</b>   MongoDB, PostgreSQL, SQL, MySQL
-<b>AI & Cloud</b> Ollama, Llama 3.2, Docker, Kubernetes, Git
-<br/>
-<b>-- Highlights --</b>
-• 2+ Years Full Stack & AI Integration Exp
-• Microservices & High-Performance Systems
-• Built MediBook-Pro, Bankify & AI Platforms
-      </pre>
+    <td width="55%" valign="top" style="background-color: #0d1117; padding: 10px;">
+<pre style="color: #c9d1d9; font-size: 13px; font-family: monospace;">
+<span style="color: #2ea043; font-weight: bold;">AmitIngAI @ github</span>
+-----------------------------------------
+<span style="color: #d2a8ff; font-weight: bold;">Role</span>       Full Stack & Backend Engineer
+<span style="color: #d2a8ff; font-weight: bold;">Focus</span>      AI-powered web applications
+<span style="color: #d2a8ff; font-weight: bold;">Degree</span>     MCA Graduate (2+ Years Exp)
+
+<span style="color: #79c0ff; font-weight: bold;">-- Stack --------------------------------</span>
+<span style="color: #ff7b72; font-weight: bold;">Frontend</span>   React.js, JavaScript, Tailwind
+<span style="color: #ff7b72; font-weight: bold;">Backend</span>    Node.js, Spring Boot, REST APIs
+<span style="color: #ff7b72; font-weight: bold;">Database</span>   PostgreSQL, MongoDB, MySQL
+<span style="color: #ff7b72; font-weight: bold;">Cloud</span>      Docker, Kubernetes, GitHub Actions
+<span style="color: #ff7b72; font-weight: bold;">AI / ML</span>    OpenAI, Gemini, Ollama, Llama 3.2
+
+<span style="color: #79c0ff; font-weight: bold;">-- Highlights ---------------------------</span>
+<span style="color: #2ea043;">•</span> Microservices & High-Performance Systems
+<span style="color: #2ea043;">•</span> Enterprise Grade Security (JWT, RBAC)
+<span style="color: #2ea043;">•</span> Production-ready projects built
+</pre>
     </td>
   </tr>
 </table>
 
 <div align="center">
+
+<br/>
 
 ### Full Stack & Backend Engineer | AI & Data Science Enthusiast
 *Building scalable applications, AI-powered solutions, backend systems, and modern web applications.*
@@ -66,8 +83,9 @@
         <li><i>"I don't just write code. I build scalable solutions that solve real-world problems."</i></li>
       </ul>
     </td>
+    <!-- Animated GIF Video inside About Me -->
     <td width="40%" align="center" valign="middle">
-      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=600&auto=format&fit=crop" width="100%" style="border-radius:10px;"/>
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" style="border-radius:10px;"/>
     </td>
   </tr>
 </table>
@@ -169,28 +187,32 @@
 
 ## 🚀 Engineering Experience
 
+Throughout my software engineering journey, I have designed and implemented production-ready systems across multiple domains.
+
 <table border="0" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>🌐 Backend & APIs</h4>
+      <h4>🌐 Backend Systems</h4>
       <ul>
         <li>RESTful API Design</li>
         <li>Microservices Architecture</li>
+        <li>Authentication & Authorization</li>
         <li>Node.js & Express Services</li>
         <li>Spring Boot Modules</li>
-        <li>Authentication & JWT</li>
         <li>MongoDB & PostgreSQL</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h4>🤖 Artificial Intelligence</h4>
       <ul>
-        <li>LLM Applications & Prompt Engineering</li>
-        <li>Ollama & Llama 3.2 Integration</li>
-        <li>Structured Output & Fine-Tuning</li>
-        <li>AI Agents & Chatbots</li>
+        <li>LLM Applications</li>
+        <li>OpenAI API & Gemini API</li>
+        <li>Ollama & Llama 3.2</li>
+        <li>Prompt Routing & Engineering</li>
+        <li>AI Chatbots</li>
+        <li>Structured Output Fine-Tuning</li>
         <li>Intent Classification</li>
-        <li>NLP Solutions</li>
+        <li>Reinforcement Learning & NLP</li>
       </ul>
     </td>
     <td width="33%" valign="top">
