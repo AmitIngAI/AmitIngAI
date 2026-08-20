@@ -13,20 +13,20 @@
       <pre>
 <b>AmitIngAI@github : ~$ neofetch</b>
 ---------------------------------
-<b>Role</b>       Full Stack & Backend Engineer
+<b>Role</b>       Full Stack & Backend Engineer | AI Enthusiast
 <b>Degree</b>     MCA Graduate (2+ Years Exp)
-<b>Focus</b>      Scalable Web Apps & Microservices
+<b>Focus</b>      Scalable Web Apps, AI Agents & Microservices
 <br/>
 <b>-- Stack --</b>
 <b>Frontend</b>   React.js, JavaScript, TypeScript, Redux, Tailwind
 <b>Backend</b>    Node.js, Express.js, Spring Boot, REST APIs
 <b>Database</b>   MongoDB, PostgreSQL, SQL, MySQL
-<b>Cloud/DevOps</b> Docker, Kubernetes, CI/CD, Git
+<b>AI & Cloud</b> Ollama, Llama 3.2, Docker, Kubernetes, Git
 <br/>
 <b>-- Highlights --</b>
-• 2+ Years Full Stack Web Development Exp
+• 2+ Years Full Stack & AI Integration Exp
 • Microservices & High-Performance Systems
-• Built MediBook-Pro, Bankify & MERN Platforms
+• Built MediBook-Pro, Bankify & AI Platforms
       </pre>
     </td>
   </tr>
@@ -34,8 +34,8 @@
 
 <div align="center">
 
-### Full Stack & Backend Engineer | MCA Graduate
-*Building scalable applications, microservices, backend systems, and modern web applications.*
+### Full Stack & Backend Engineer | AI & Data Science Enthusiast
+*Building scalable applications, AI-powered solutions, backend systems, and modern web applications.*
 
 <br/>
 
@@ -59,10 +59,10 @@
     <td width="60%" valign="top">
       <h3>👨‍💻 Who am I?</h3>
       <ul>
-        <li>🎓 <b>MCA Graduate</b> with 2+ years of hands-on experience in full-stack web development.</li>
-        <li>💻 <b>Full Stack & Backend Developer</b> skilled in building scalable applications using React, Node.js, Spring Boot, and SQL/NoSQL databases.</li>
-        <li>🚀 Experienced in REST APIs, microservices architecture, cloud deployment, Docker, and CI/CD pipelines.</li>
-        <li>🌱 Currently exploring Advanced System Design, Microservices, and AI-assisted development tooling.</li>
+        <li>🎓 <b>MCA Graduate</b> with 2+ years of hands-on experience in full-stack web development and AI solutions.</li>
+        <li>💻 <b>Full Stack & Backend Developer</b> passionate about building scalable web applications and AI-powered tools.</li>
+        <li>🚀 Currently building production-ready software using modern backend technologies, cloud infrastructure, and LLMs.</li>
+        <li>🌱 Currently learning System Design, AWS, Kubernetes, AI Agents, LLM Engineering, and High Performance Backend Systems.</li>
         <li><i>"I don't just write code. I build scalable solutions that solve real-world problems."</i></li>
       </ul>
     </td>
@@ -76,7 +76,7 @@
 
 ## 🏅 Achievements & Highlights
 * 🏆 **MCA Graduate** — Specialized in Software Engineering & Web Architecture
-* 💻 **2+ Years Experience** — Building Production-Grade Full Stack Web Applications
+* 💻 **2+ Years Experience** — Building Production-Grade Full Stack & AI Web Applications
 * 👨‍💼 **Lead Developer** — MediBook-Pro Healthcare Platform
 * 💳 **Architect** — Bankify Secure Digital Banking System
 
@@ -103,14 +103,17 @@
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,linux&perline=6"/>
     </td>
     <td width="50%" valign="top">
+      <h4>🤖 Artificial Intelligence</h4>
+      <code>OPENAI</code> • <code>GEMINI API</code>
+      <p style="margin-top: 8px;">
+        Ollama • Llama 3.2 • Prompt Engineering • NLP • Deep Learning • Fine-Tuning • Structured Output • AI Agents • Intent Classification • AI Chatbots
+      </p>
+      <br/>
       <h4>🌐 Web Architecture</h4>
       <code>REST APIs</code> • <code>Microservices</code> • <code>JWT Auth</code> • <code>RBAC</code> • <code>System Design</code>
       <br/><br/>
       <h4>🔐 Security & Access Control</h4>
       <code>JWT</code> • <code>OAuth</code> • <code>Role-Based Access Control (RBAC)</code> • <code>API Security</code> • <code>Authentication & Authorization</code>
-      <br/><br/>
-      <h4>🛠️ Tools & Environments</h4>
-      <code>VS Code</code> • <code>Postman</code> • <code>Docker Desktop</code> • <code>Git & GitHub Actions</code> • <code>MongoDB Atlas</code>
     </td>
   </tr>
 </table>
@@ -180,14 +183,14 @@
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>🎨 Frontend Engineering</h4>
+      <h4>🤖 Artificial Intelligence</h4>
       <ul>
-        <li>React.js SPA Development</li>
-        <li>Redux Toolkit State Logic</li>
-        <li>Tailwind CSS & Responsive UI</li>
-        <li>Component Lifecycle Optimization</li>
-        <li>Dynamic Form Validation</li>
-        <li>API Integration & Axios</li>
+        <li>LLM Applications & Prompt Engineering</li>
+        <li>Ollama & Llama 3.2 Integration</li>
+        <li>Structured Output & Fine-Tuning</li>
+        <li>AI Agents & Chatbots</li>
+        <li>Intent Classification</li>
+        <li>NLP Solutions</li>
       </ul>
     </td>
     <td width="33%" valign="top">
