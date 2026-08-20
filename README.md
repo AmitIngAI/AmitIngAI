@@ -1,4 +1,4 @@
-<!-- Top Terminal and Neofetch Section (Like Image 2) -->
+<!-- Top Terminal and Neofetch Section (Same as Image 2) -->
 <table border="1" style="border-collapse: collapse; border-color: #30363d;" width="100%">
   <tr>
     <td width="45%" valign="top" style="background-color: #0d1117; padding: 10px;">
@@ -20,14 +20,14 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 AmitIngAI@github:~$ whoami
-Amit Kumar (Full Stack Engineer)
+Amit Kumar
 </pre>
     </td>
     <td width="55%" valign="top" style="background-color: #0d1117; padding: 10px;">
 <pre style="color: #c9d1d9; font-size: 13px; font-family: monospace;">
 <span style="color: #2ea043; font-weight: bold;">AmitIngAI @ github</span>
 -----------------------------------------
-<span style="color: #d2a8ff; font-weight: bold;">Role</span>       Full Stack & Backend Engineer
+<span style="color: #d2a8ff; font-weight: bold;">Role</span>       Full Stack Engineer
 <span style="color: #d2a8ff; font-weight: bold;">Focus</span>      AI-powered web applications
 <span style="color: #d2a8ff; font-weight: bold;">Degree</span>     MCA Graduate (2+ Years Exp)
 
@@ -35,175 +35,185 @@ Amit Kumar (Full Stack Engineer)
 <span style="color: #ff7b72; font-weight: bold;">Frontend</span>   React.js, JavaScript, Tailwind
 <span style="color: #ff7b72; font-weight: bold;">Backend</span>    Node.js, Spring Boot, REST APIs
 <span style="color: #ff7b72; font-weight: bold;">Database</span>   PostgreSQL, MongoDB, MySQL
-<span style="color: #ff7b72; font-weight: bold;">Cloud</span>      Docker, Kubernetes, GitHub Actions
+<span style="color: #ff7b72; font-weight: bold;">Cloud</span>      Docker, Kubernetes, AWS
 <span style="color: #ff7b72; font-weight: bold;">AI / ML</span>    OpenAI, Gemini, Ollama, Llama 3.2
 
 <span style="color: #79c0ff; font-weight: bold;">-- Highlights ---------------------------</span>
-<span style="color: #2ea043;">•</span> Microservices & High-Performance Systems
-<span style="color: #2ea043;">•</span> Enterprise Grade Security (JWT, RBAC)
-<span style="color: #2ea043;">•</span> Production-ready projects built
+<span style="color: #2ea043;">•</span> MCA Graduate with Full Stack Experience
+<span style="color: #2ea043;">•</span> Scalable Microservices Architecture
+<span style="color: #2ea043;">•</span> 4+ production-grade projects built
 </pre>
     </td>
   </tr>
 </table>
 
+<!-- HERO SECTION -->
 <div align="center">
+  <h3><strong>Full Stack & Backend Engineer | AI Enthusiast</strong></h3>
+  <p><i>Building scalable applications, AI-powered solutions, backend systems, and modern web applications.</i></p>
 
-<br/>
-
-### Full Stack & Backend Engineer | AI & Data Science Enthusiast
-*Building scalable applications, AI-powered solutions, backend systems, and modern web applications.*
-
-<br/>
-
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/AmitIngAI"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AmitIngAI&color=00b4d8&style=flat-square&label=Profile+views" alt="Profile Views"/>
-
+  <p>
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/AmitIngAI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=AmitIngAI&color=00FFCC&style=flat-square" alt="Visitor Counter" />
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- ABOUT & MEDIA SECTION -->
+<h2 align="center">🚀 About Me</h2>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👨‍💻 Who am I?</h3>
-      <ul>
-        <li>🎓 <b>MCA Graduate</b> with 2+ years of hands-on experience in full-stack web development and AI solutions.</li>
-        <li>💻 <b>Full Stack & Backend Developer</b> passionate about building scalable web applications and AI-powered tools.</li>
-        <li>🚀 Currently building production-ready software using modern backend technologies, cloud infrastructure, and LLMs.</li>
-        <li>🌱 Currently learning System Design, AWS, Kubernetes, AI Agents, LLM Engineering, and High Performance Backend Systems.</li>
-        <li><i>"I don't just write code. I build scalable solutions that solve real-world problems."</i></li>
-      </ul>
-    </td>
-    <!-- Animated GIF Video inside About Me -->
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" style="border-radius:10px;"/>
-    </td>
-  </tr>
+<table width="100%" border="0">
+<tr>
+<td width="40%" valign="top" style="border: none; background: none;">
+
+### 👨‍💻 Who am I?
+
+* 🎓 **MCA Graduate** with 2+ years of hands-on experience in full-stack web development.
+* 💻 **Full Stack & Backend Developer** passionate about building scalable applications and AI-powered solutions.
+* 🚀 Experienced in REST APIs, microservices architecture, cloud deployment, and CI/CD pipelines.
+* 🌱 Currently learning **System Design, AWS, Kubernetes, AI Agents, LLM Engineering, and High Performance Backend Systems.**
+* 📹 Passionate about building high-performance applications and AI-assisted tooling.
+
+<blockquote>
+  <p align="left">
+    <i>"I don't just write code. I build scalable solutions that solve real-world problems."</i>
+  </p>
+</blockquote>
+
+</td>
+
+<td width="60%" align="center" valign="middle" style="border: none; background: none;">
+  <!-- Animated Video (Direct URL from original repo so it works without uploading) -->
+  <img src="https://raw.githubusercontent.com/lohithadamisetti123/cinematic-portfolio/main/assets/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" height="auto" alt="Coding Animation"/>
+</td>
+</tr>
 </table>
 
----
-
-## 🏅 Achievements & Highlights
-* 🏆 **MCA Graduate** — Specialized in Software Engineering & Web Architecture
-* 💻 **2+ Years Experience** — Building Production-Grade Full Stack & AI Web Applications
-* 👨‍💼 **Lead Developer** — MediBook-Pro Healthcare Platform
-* 💳 **Architect** — Bankify Secure Digital Banking System
+<hr style="border: 1px solid #30363d; background-color: #30363d; height: 1px; margin: 20px 0;" />
 
 ---
 
-## ⚡ Tech Stack & Engineering Arsenal
+<!-- COMPETITIVE PROGRAMMING / SKILLS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=⚡%20Tech%20Stack%20&%20Engineering%20Arsenal&fontSize=30&fontColor=ffffff" width="100%"/>
+</div>
 
-<table border="0" width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Languages & Core</h4>
-      <img src="https://skillicons.dev/icons?i=js,ts,java,html,css&perline=6"/>
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
       <br/><br/>
-      <h4>🎨 Frontend Frameworks</h4>
-      <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&perline=6"/>
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
       <br/><br/>
-      <h4>⚙️ Backend Systems</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=6"/>
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
       <br/><br/>
-      <h4>🗄️ Databases</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=6"/>
+      <h3>🗄️ Databases & Caching</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
       <br/><br/>
-      <h4>☁️ Cloud & DevOps</h4>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,linux&perline=6"/>
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws" />
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Artificial Intelligence</h4>
-      <code>OPENAI</code> • <code>GEMINI API</code>
-      <p style="margin-top: 8px;">
-        Ollama • Llama 3.2 • Prompt Engineering • NLP • Deep Learning • Fine-Tuning • Structured Output • AI Agents • Intent Classification • AI Chatbots
+      <h3>🤖 Artificial Intelligence</h3>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+        <br/>Ollama • Llama 3.2 • Prompt Engineering • NLP • Deep Learning • Fine-Tuning • Structured Output • AI Agents • Intent Classification • AI Chatbots
       </p>
       <br/>
-      <h4>🌐 Web Architecture</h4>
-      <code>REST APIs</code> • <code>Microservices</code> • <code>JWT Auth</code> • <code>RBAC</code> • <code>System Design</code>
-      <br/><br/>
-      <h4>🔐 Security & Access Control</h4>
-      <code>JWT</code> • <code>OAuth</code> • <code>Role-Based Access Control (RBAC)</code> • <code>API Security</code> • <code>Authentication & Authorization</code>
+      <h3>🌐 Web Architecture</h3>
+      <p>
+        REST APIs • Microservices • JWT Auth • RBAC • System Design • Message Queues
+      </p>
+      <br/>
+      <h3>🔐 Security & Access Control</h3>
+      <p>JWT • RSA Encryption • PKI Authentication • Role Based Access Control (RBAC) • OAuth • Authentication • Authorization</p>
     </td>
   </tr>
 </table>
 
----
+<!-- PROJECTS -->
+<h2>💼 Featured Projects</h2>
 
-## 💼 Featured Projects
-
-<table border="0" width="100%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 MediBook-Pro</h3>
+      <h3>🏥 <a href="#">MediBook-Pro</a></h3>
       <p>A comprehensive healthcare management system designed to streamline patient records, appointments, and medical workflows for clinics and hospitals.</p>
-      <code>JavaScript</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>REST API</code>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>REST APIs</code>
+      </p>
       <ul>
-        <li>✔ Dynamic Appointment Scheduling & Real-time Doctor Availability</li>
-        <li>✔ Patient Medical History Management & Role-Based Access</li>
+        <li>✔ Dynamic Appointment Scheduling & Real-time Availability</li>
+        <li>✔ Patient Medical History Management & RBAC</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💳 Bankify - Digital Banking System</h3>
-      <p>A full-stack digital banking system built with React, Node.js, Express, and MongoDB Atlas including authentication, loans, and investment modules.</p>
-      <code>React.js</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
+      <h3>💳 <a href="#">Bankify Digital Banking</a></h3>
+      <p>A full-stack digital banking system including authentication, accounts, transactions, loans, and financial management modules.</p>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB Atlas</code> <code>JWT</code>
+      </p>
       <ul>
-        <li>✔ Secure Fund Transfers, Accounts & Loans Management</li>
+        <li>✔ Secure Fund Transfers & Multi-Account Management</li>
         <li>✔ Enterprise JWT Authentication & Financial Dashboard</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍕 FoodDelivery MERN Platform</h3>
-      <p>Full-Stack Food Delivery Platform with MERN Stack, Redux Toolkit, Real-time Order Tracking, and Multi-Role Authentication.</p>
-      <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code> <code>Redux</code>
+      <h3>🍕 <a href="#">FoodDelivery MERN Platform</a></h3>
+      <p>Full-Stack Food Delivery Platform with real-time order tracking and multi-role authentication (Customer/Restaurant/Delivery).</p>
+      <p>
+        <code>MERN Stack</code> <code>Redux</code> <code>Tailwind</code> <code>Socket.io</code>
+      </p>
       <ul>
-        <li>✔ Multi-Role System: Customer, Restaurant & Delivery Partner</li>
-        <li>✔ Redux State Management & Production Ready UI/UX</li>
+        <li>✔ Multi-Role System Dashboards</li>
+        <li>✔ Production Ready UI/UX & Live Order Status</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 ShopSmart - E-Commerce Platform</h3>
-      <p>Premium modern E-commerce platform with React.js featuring user authentication, cart management, wishlist, and responsive UI.</p>
-      <code>React.js</code> <code>JavaScript</code> <code>Context API</code> <code>CSS3</code>
+      <h3>🛒 <a href="#">ShopSmart E-Commerce</a></h3>
+      <p>Premium modern E-commerce platform with React.js featuring user authentication, cart management, wishlist, and beautiful UI/UX.</p>
+      <p>
+        <code>React.js</code> <code>JavaScript</code> <code>CSS3</code> <code>Context API</code>
+      </p>
       <ul>
-        <li>✔ Instant Product Search, Filter & Persistent Cart State</li>
-        <li>✔ Responsive User Dashboard & Seamless Shopping Flow</li>
+        <li>✔ Instant Product Search & Filter</li>
+        <li>✔ Persistent Cart State & Seamless Checkout Flow</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<!-- ENGINEERING EXPERIENCE -->
+<h2>🚀 Engineering Experience</h2>
+<p>Throughout my software engineering journey, I have designed and implemented production-ready systems across multiple domains.</p>
 
-## 🚀 Engineering Experience
-
-Throughout my software engineering journey, I have designed and implemented production-ready systems across multiple domains.
-
-<table border="0" width="100%">
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>🌐 Backend Systems</h4>
+      <h3>🌐 Backend Systems</h3>
       <ul>
         <li>RESTful API Design</li>
         <li>Microservices Architecture</li>
         <li>Authentication & Authorization</li>
+        <li>Payment Gateways</li>
         <li>Node.js & Express Services</li>
-        <li>Spring Boot Modules</li>
-        <li>MongoDB & PostgreSQL</li>
+        <li>PostgreSQL & MongoDB</li>
+        <li>Spring Boot APIs</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>🤖 Artificial Intelligence</h4>
+      <h3>🤖 Artificial Intelligence</h3>
       <ul>
         <li>LLM Applications</li>
         <li>OpenAI API & Gemini API</li>
@@ -215,37 +225,43 @@ Throughout my software engineering journey, I have designed and implemented prod
         <li>Reinforcement Learning & NLP</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4>🛠️ DevOps & Infrastructure</h4>
+    <td width="34%" valign="top">
+      <h3>🛠️ DevOps & Infrastructure</h3>
       <ul>
-        <li>Docker Containerization</li>
+        <li>Docker</li>
         <li>Kubernetes Basics</li>
-        <li>CI/CD Automation Pipelines</li>
-        <li>Git Version Control</li>
-        <li>Cloud App Deployment</li>
-        <li>Postman API Testing</li>
+        <li>Git & GitHub</li>
+        <li>Linux Commands</li>
+        <li>CI/CD Ready Applications</li>
+        <li>Containerized Deployments</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<!-- HIGHLIGHTS -->
+<h2>🏆 Professional Highlights</h2>
+<p>Over my professional career, I have successfully developed and deployed industry-grade software engineering projects covering backend development, frontend architecture, microservices, DevOps, and AI integration.</p>
+<p>
+  <strong>🚀 Technologies & Architectures Worked On:</strong><br/>
+  Microservices Architecture • RESTful APIs • AI Chatbots • LLM Prompt Routing • Fine-Tuning Models • MongoDB Atlas & Aggregation • Enterprise JWT Authentication • Docker Containerization • Redux State Management • Payment Gateway Integration • High-Performance React Web Applications.
+</p>
 
-## 📈 GitHub Analytics & Activity
-
+<!-- GITHUB STATS -->
+<h2>📈 GitHub Analytics & Open Source Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitIngAI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitIngAI&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitIngAI&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <sub>⭐️ Profile designed with passion by Amit Kumar</sub>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmitIngAI&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmitIngAI&theme=tokyonight" />
+</p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitIngAI&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitIngAI&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="97%" alt="Activity Graph" />
+  </p>
+  <p>
+    <!-- Snake Animation Output -->
+    <img src="https://raw.githubusercontent.com/AmitIngAI/AmitIngAI/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="97%" />
+  </p>
 </div>
