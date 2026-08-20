@@ -48,7 +48,7 @@
 </td>
 <td width="60%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/lohithadamisetti123/lohithadamisetti123/main/assets/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" alt="Coding Animation"/>
+<img src="./assets/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" alt="Coding Animation"/>
 
 </td>
 </tr>
