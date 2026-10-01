@@ -261,5 +261,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   <br/>
-  <sub><b>⭐ From <a href="https://github.com/AmitIngAI">Amit Kumar</a> — Building the future, one commit at a time!</b></sub>
+  <sub><b>⭐ From <a href="https://github.com/AmitIngAI">Amit Ingale</a> — Building the future, one commit at a time!</b></sub>
 </div>
