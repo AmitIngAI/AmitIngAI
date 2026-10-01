@@ -135,9 +135,9 @@
       <p>AI-powered Land Records Management System for Government of Maharashtra with ML-based valuation (<b>99.8% accuracy</b>).</p>
       <p><code>React</code> <code>Spring Boot</code> <code>MySQL</code> <code>XGBoost</code> <code>Flask</code></p>
       <ul>
-        <li>✔ XGBoost Model — 99.8% accuracy, 1.46% MAPE</li>
-        <li>✔ 1000+ Digitized Land Records + Satellite Maps</li>
-        <li>✔ Multi-language (EN/HI/MR), PDF Export, JWT Auth</li>
+        <li>✔ Land records demo app with ML price estimation. Academic project.</li>
+        <li>✔ 1XGBoost model trained on synthetic data (1.46% MAPE on that data).</li>
+        <li>✔ Multi-language (EN/HI/MR), PDF Export, JWT Auth, React, Spring Boot, Flask.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -145,9 +145,9 @@
       <p>AI-powered Government Scheme Recommender for Maharashtra citizens using Rule Engine + Cosine Similarity.</p>
       <p><code>React</code> <code>Spring Boot</code> <code>Python</code> <code>Scikit-learn</code> <code>Flask</code></p>
       <ul>
-        <li>✔ Personalized Match Scores (75-98%)</li>
+        <li>✔ Government scheme recommender for Maharashtra citizens.</li>
         <li>✔ 30+ Schemes, 7 Categories, Real-time Notifications</li>
-        <li>✔ Life-Event Detection, Family Dashboard</li>
+        <li>✔ Academic project. Rule engine plus cosine similarity matching. React, Spring Boot, Flask.</li>
       </ul>
     </td>
   </tr>
